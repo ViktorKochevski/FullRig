@@ -1,0 +1,77 @@
+#saturn {
+    max-height: 200.3px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+#gpro {
+    max-height: 200.3px;
+    object-fit: cover;
+    object-position: top;
+}
+
+#keychron {
+    max-height: 200.3px;
+}
+
+#endgametext {
+    color: white;
+    font-size: 3rem;
+    text-align: left;
+}
+
+#skypadtext {
+    color: white;
+    font-size: 3rem;
+}
+
+#artisantext {
+    color: white;
+    mix-blend-mode: difference;
+    font-size: 3rem;
+    text-align: right;
+}
+.latest {
+    text-align: center;!important;
+}
+
+.X2 {
+    max-height: 400px;
+    margin: 0 auto;
+    object-fit: cover;
+    width: 100%;
+}
+
+#artisan {
+    height: 700px;
+}
+
+#endgame {
+    height: 700px;
+}
+
+#skypad {
+    height: 700px;
+}
+.spacer {
+    padding: 50px;
+}
+#producttopspacer {
+    padding-top: 100px;
+}
+
+#productbtmspacer {
+    padding-bottom: 200px;
+}
+
+#specificationspacer {
+    margin-top: 50px;
+}
+
+#pulsarspacer {
+    margin-top: 55px;
+}
+
+.indexcart {
+    background: #9C00FF;!important;
+}
